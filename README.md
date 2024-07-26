@@ -1,0 +1,1 @@
+This program collects details for 5 employees, calculates their total payment based on either an hourly rate or salary and then displays the payment details. It uses a structure to manage employee data and functions to handle input, calculation, and display tasks.
